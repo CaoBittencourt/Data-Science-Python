@@ -13,7 +13,7 @@ from pandas.core.frame import DataFrame
 
 # region IMPORTAÇÃO DOS DADOS
 # Diretório de trabalho
-os.chdir('C:/Users/Sony/Documents/GitHub/Python')
+os.chdir('C:/Users/Sony/Documents/GitHub/Data-Science-Python')
 
 # Desabilitar max rows e max cols do Pandas para visualizar os dfs completamente
 # pd.set_option('display.max_columns', None)
